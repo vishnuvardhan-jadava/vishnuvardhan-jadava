@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently doing my masters in Computer Science at the University of California, Riverside.
-- 🔭 I’m a data enthusiast.
 - 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing.
 - 🔭 I’m skilled in SQL, PL/SQL, Python, Data Analysis, Power BI, and Tableau.
 - 🌱 I am currently learning Data Science, Machine Learning, and Deep Learning.
