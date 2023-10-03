@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I am currently learning Data Science, Machine Learning, and Deep Learning.
 - 👯 Accumulated four years of full-time professional experience as a Software Engineer/Team Lead, having worked at Tech Mahindra Ltd and Birlasoft Ltd, based in India.
 - 👯 Worked part-time for 7 months as a Data Specialist for Institutional Research at the University of California, Riverside, CA, USA.
-- 📫 How to reach me: vjada001@ucr.edu
-- 😄 Pronouns: he/him
-- 🔭 Some blogs that I follow: https://www.blog.dailydoseofds.com
+- 📫 Reach me: vjada001@ucr.edu
+- 😄 Pronouns: He/Him
+- 🔭 Blogs that I follow: https://www.blog.dailydoseofds.com
