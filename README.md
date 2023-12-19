@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**vishnuvardhan-jadava/vishnuvardhan-jadava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vishnuvardhan-jadava/vishnuvardhan-jadava**
 
 - 🔭 I’m a graduate student in Computer Science at the University of California, Riverside.
 - 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing.
