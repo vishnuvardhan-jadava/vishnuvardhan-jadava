@@ -3,8 +3,6 @@
 
 **vishnuvardhan-jadava/vishnuvardhan-jadava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m a graduate student in Computer Science at the University of California, Riverside.
 - 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing.
 - 🔭 I’m skilled in SQL, PL/SQL, Python, Data Analysis, Power BI, and Tableau.
