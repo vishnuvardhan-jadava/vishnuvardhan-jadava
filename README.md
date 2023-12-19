@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**vishnuvardhan-jadava/vishnuvardhan-jadava**
+**vishnuvardhan-jadava**
 
 - 🔭 I’m a graduate student in Computer Science from the University of California, Riverside.-
 - 🌱 I have a strong interest in Data Science, Machine Learning, Deep Learning, and Natural Language Processing.
