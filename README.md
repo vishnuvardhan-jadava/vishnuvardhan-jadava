@@ -11,11 +11,10 @@
 - 🏢 I also have experience working part-time for 7 months as a Data Specialist for Institutional Research at the University of California, Riverside, CA, USA.
 - 📫 How to reach me: vishnuvardhan.jadava@gmail.com
 - 😄 Pronouns: He/Him
-- 📚 Blogs that I follow: Daily Dose of DS, towardsdatascience.com, https://www.nvidia.com/en-us/research/, https://ai.meta.com/research/, https://www.amazon.science/
 - 📚 Blogs that I follow:
-  - Daily Dose of DS
-  - towardsdatascience.com
+  - [Daily Dose of DS](https://www.blog.dailydoseofds.com/)
+  - [towardsdatascience](towardsdatascience.com)
   - [NVIDIA Research](https://www.nvidia.com/en-us/research/)
-  - Meta AI Research
-  - Amazon Science
+  - [Meta AI Research](https://ai.meta.com/research/)
+  - [Amazon Science](https://www.amazon.science/)
 
