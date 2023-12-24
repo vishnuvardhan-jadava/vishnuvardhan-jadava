@@ -15,7 +15,7 @@
 - 📚 Blogs that I follow:
   - Daily Dose of DS
   - towardsdatascience.com
-  - [NVIDIA Research] (https://www.nvidia.com/en-us/research/)
+  - [NVIDIA Research](https://www.nvidia.com/en-us/research/)
   - Meta AI Research
   - Amazon Science
 
