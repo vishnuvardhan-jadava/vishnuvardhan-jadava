@@ -3,7 +3,7 @@
 
 **vishnuvardhan-jadava**
 
-- 🔭 I’m a graduate student in Computer Science from the University of California, Riverside.-
+- 🔭 I’m a graduate student in Computer Science from the University of California, Riverside.
 - 🌱 I have a strong interest in Data Science, Machine Learning, Deep Learning, and Natural Language Processing.
 - 💼 I have honed my skills in SQL, PL/SQL, Python, Data Analysis, Power BI, and Tableau.
 - 🎓 I’m presently expanding my knowledge in the fields of Deep Learning, NLP, and Generative AI.
