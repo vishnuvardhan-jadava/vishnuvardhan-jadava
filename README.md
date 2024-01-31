@@ -11,7 +11,7 @@ I'm a seasoned Data Scientist with a passion for leveraging data-driven insights
 - 😄 Pronouns: He/Him
 - 📚 I regularly follow these blogs for the latest in Data Science and AI:
   - [Daily Dose of DS](https://www.blog.dailydoseofds.com/)
-  - [towardsdatascience]([towardsdatascience.com](https://towardsdatascience.com/))
+  - [towardsdatascience](https://towardsdatascience.com/)
   - [NVIDIA Research](https://www.nvidia.com/en-us/research/)
   - [Meta AI Research](https://ai.meta.com/research/)
   - [Amazon Science](https://www.amazon.science/)
