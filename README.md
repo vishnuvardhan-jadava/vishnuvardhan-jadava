@@ -4,7 +4,6 @@ I'm a seasoned Data Scientist with a passion for leveraging data-driven insights
 
 - 🎓 I hold a Master's degree in Computer Science from the University of California, Riverside, CA, and a Bachelor's degree in Computer Science and Engineering from JNTU, Kakinada, India.
 - 🛠️ My toolbox includes but is not limited to Python, R, SQL, Hadoop, Spark, TensorFlow, PyTorch, and various machine learning algorithms.
-- 📈 I have a proven track record in enhancing database performance, ensuring defect-free post-deployment operation, and saving costs through innovative product development.
 - 🌱 I'm always learning and currently expanding my knowledge in the fields of Deep Learning, NLP, and Generative AI.
 - 📫 Reach me at: vishnuvardhan.jadava@gmail.com
 - 😄 Pronouns: He/Him
