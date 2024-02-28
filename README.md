@@ -7,7 +7,7 @@ I'm a seasoned Data Scientist with a passion for leveraging data-driven insights
 - 🌱 I'm always learning and currently expanding my knowledge in the fields of Deep Learning, NLP, and Generative AI.
 - 📫 Reach me at: vishnuvardhan.jadava@gmail.com
 - 😄 Pronouns: He/Him
-- 📚 I regularly follow these blogs for the latest in Data Science and AI:
+- 📚 Blogs i follow for the latest in Data Science and AI:
   - [Daily Dose of DS](https://www.blog.dailydoseofds.com/)
   - [towardsdatascience](https://towardsdatascience.com/)
   - [NVIDIA Research](https://www.nvidia.com/en-us/research/)
