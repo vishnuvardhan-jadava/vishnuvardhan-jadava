@@ -13,7 +13,7 @@ I'm a seasoned Data Scientist with a passion for unraveling the mysteries hidden
 
 - 📚 **Blogs I Follow:** Always on the lookout for fresh insights, I frequently visit platforms like
   - [Daily Dose of DS](https://www.blog.dailydoseofds.com/)
-  - [towardsdatascience](https://towardsdatascience.com/)
+  - [Towardsdatascience](https://towardsdatascience.com/)
   - [NVIDIA Research](https://www.nvidia.com/en-us/research/)
   - [Meta AI Research](https://ai.meta.com/research/)
   - [Amazon Science](https://www.amazon.science/)
