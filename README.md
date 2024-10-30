@@ -7,7 +7,7 @@ I'm a seasoned Data Engineer with a passion for unraveling the mysteries hidden 
 
 - 🛠️ **Skills:** My toolkit is a blend of cutting-edge technologies and traditional methods. From Python (NumPy, Pandas, SciPy) to SQL, from TensorFlow to Apache Spark, I thrive on the diversity of tools available in the data science ecosystem. I'm equally comfortable with statistical analysis as I am with building complex machine learning models.
 
-- 📫 **Contact:** You can reach out to me at vishnuvardhan.jadava@gmail.com.
+- 📫 **Contact:** You can reach out to me at vvjadava@gmail.com.
 
 - 😄 **Pronouns:** He/Him
 
