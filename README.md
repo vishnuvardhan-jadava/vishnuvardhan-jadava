@@ -1,7 +1,7 @@
 
 ### Hello, World! 👋 I'm Vishnuvardhan Jadava
 
-I'm a seasoned Data Scientist with a passion for unraveling the mysteries hidden within data and turning them into actionable insights. Let me give you a glimpse into my world:
+I'm a seasoned Data Engineer with a passion for unraveling the mysteries hidden within data and turning them into actionable insights. Let me give you a glimpse into my world:
 
 - 🎓 **Education:** I hold a Master's degree in Computer Science from the University of California, Riverside, CA, and a Bachelor's degree in Computer Science and Engineering from JNTU, Kakinada, India.
 
