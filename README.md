@@ -14,7 +14,7 @@ I'm a seasoned Data Engineer dedicated to building and optimizing data infrastru
 - **Cloud Technologies:** AWS, Azure
 
 ## 📫 How to Reach Me
-- **Email:** [vvjadava@gmail.com](mailto:vvjadava@gmail.com)
+- **Email:** [vishnuvardhan.jadava@gmail.com](mailto:vishnuvardhan.jadava@gmail.com)
 
 ## 😄 Pronouns
 - He/Him
