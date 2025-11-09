@@ -8,11 +8,10 @@ I'm a seasoned Data Engineer dedicated to building and optimizing data infrastru
 
 ## 🛠️ Skills
 - **Programming Languages:** Python (NumPy, Pandas, SciPy)
-- **Data Storage and Processing:** Apache Hadoop, Apache Spark
+- **Data Storage and Processing:** Apache Hadoop, Apache Spark, HIVE
 - **Workflow Automation:** Apache Airflow
 - **Real-Time Data Processing:** Apache Kafka
-- **Cloud Technologies:** AWS
-- **Machine Learning:** TensorFlow
+- **Cloud Technologies:** AWS, Azure
 
 ## 📫 How to Reach Me
 - **Email:** [vvjadava@gmail.com](mailto:vvjadava@gmail.com)
